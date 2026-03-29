@@ -1,4 +1,4 @@
-const CACHE_NAME = 'guia-voluntario-v1';
+const CACHE_NAME = 'guia-voluntario-v2';
 const ASSETS = [
   './',
   './index.html',
